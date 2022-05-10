@@ -1,0 +1,12 @@
+body {
+  background-color:brown;
+  margin:50px;
+  text-align:center;
+}
+input {
+  font-weight:bold;
+}
+canvas {
+  border:5px solid;
+  width:400px;
+}
